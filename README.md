@@ -1,6 +1,6 @@
 # Magic 8 Ball Flutter
 
-A new Flutter application.
+## A new Flutter application.
 
 ## OUTPUT
 ![](images/MagicBall.PNG)
