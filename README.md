@@ -1,7 +1,9 @@
-# magic_8_ball_flutter
+# Magic 8 Ball Flutter
 
 A new Flutter application.
 
+## OUTPUT
+![](images/MagicBall.PNG)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
